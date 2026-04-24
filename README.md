@@ -1,1 +1,1 @@
-Repositório para atividades sobre git e comandos git
+Não tenho uma história engraçada que eu lembre :(
